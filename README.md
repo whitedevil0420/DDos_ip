@@ -1,5 +1,5 @@
 # DDos_ip
-It's written in python and make for sand unlimited data packet on a particular web ip
+It's written in python and make for send unlimited data packet on a particular web ip
 
 Attack of ddos (send unlimited data packet on an ip for takedown system) yes! It can be takedown a website 
 
